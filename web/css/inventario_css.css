@@ -1,0 +1,26 @@
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+body {
+    background-color: #6D0000 !important;
+
+}
+
+.category-credit .post-content {
+    text-align: left;
+}
+.category-credit .post-meta {
+    text-align: right;
+}
+.category-credit .post-content h4 {
+    font-weight: bold;
+    margin: 0;
+}
+.category-credit .post-meta .price {
+    font-weight: bold;
+    color: #4BB047;
+}
+.category-credit .post-content span {
+    font-weight: bold;
+    color: #6FCAEB;
+}
+
+
